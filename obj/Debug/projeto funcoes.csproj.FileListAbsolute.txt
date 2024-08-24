@@ -1,0 +1,20 @@
+C:\Users\Aluno\source\repos\projeto funcoes\obj\Debug\projeto funcoes.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\projeto funcoes\obj\Debug\projeto_funcoes.Form1.resources
+C:\Users\Aluno\source\repos\projeto funcoes\obj\Debug\projeto_funcoes.Properties.Resources.resources
+C:\Users\Aluno\source\repos\projeto funcoes\obj\Debug\projeto funcoes.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\projeto funcoes\obj\Debug\projeto funcoes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\projeto funcoes\bin\Debug\projeto funcoes.exe.config
+C:\Users\Aluno\source\repos\projeto funcoes\bin\Debug\projeto funcoes.exe
+C:\Users\Aluno\source\repos\projeto funcoes\bin\Debug\projeto funcoes.pdb
+C:\Users\Aluno\source\repos\projeto funcoes\obj\Debug\projeto funcoes.exe
+C:\Users\Aluno\source\repos\projeto funcoes\obj\Debug\projeto funcoes.pdb
+C:\Users\flavia\Documents\projeto funcoes\bin\Debug\projeto funcoes.exe.config
+C:\Users\flavia\Documents\projeto funcoes\bin\Debug\projeto funcoes.exe
+C:\Users\flavia\Documents\projeto funcoes\bin\Debug\projeto funcoes.pdb
+C:\Users\flavia\Documents\projeto funcoes\obj\Debug\projeto funcoes.csproj.AssemblyReference.cache
+C:\Users\flavia\Documents\projeto funcoes\obj\Debug\projeto_funcoes.Form1.resources
+C:\Users\flavia\Documents\projeto funcoes\obj\Debug\projeto_funcoes.Properties.Resources.resources
+C:\Users\flavia\Documents\projeto funcoes\obj\Debug\projeto funcoes.csproj.GenerateResource.cache
+C:\Users\flavia\Documents\projeto funcoes\obj\Debug\projeto funcoes.csproj.CoreCompileInputs.cache
+C:\Users\flavia\Documents\projeto funcoes\obj\Debug\projeto funcoes.exe
+C:\Users\flavia\Documents\projeto funcoes\obj\Debug\projeto funcoes.pdb
